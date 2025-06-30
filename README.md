@@ -3,12 +3,12 @@
 **Imagify** is a full-stack SaaS application that transforms natural language prompts into vivid, AI-generated images in seconds. Designed for accessibility and performance, Imagify blends cutting-edge AI capabilities with a smooth user experience — all powered by a secure and scalable MERN architecture.
 
 
-
+<br>
 
 
 > 🖼️ Generate. 💬 Describe. ⚡ Visualize. All in under 5 seconds.
 
-
+<br>
 
 ## 🚀 Overview
 
@@ -16,7 +16,7 @@ Imagify is more than just a text-to-image converter — it's a productivity tool
 
 The application enables users to securely register/login, input creative prompts, and receive high-quality image output instantly, all while managing usage via a credit-based system and seamless Razorpay integration.
 
-
+<br>
 
 ## 🔧 Key Highlights
 
@@ -28,7 +28,7 @@ The application enables users to securely register/login, input creative prompts
 - 🖌️ **Tailwind CSS**: Modern, responsive and utility-first styling  
 - 📦 **MongoDB Atlas**: Cloud-hosted NoSQL database with schema validation  
 
-
+<br>
 
 ## 📊 Functional Stats
 
@@ -38,7 +38,7 @@ The application enables users to securely register/login, input creative prompts
 - 🎯 **Conversion Accuracy**: Optimized with text-to-image REST APIs  
 - 🧾 **Transactions**: Logged via MongoDB transactions schema for auditing  
 
-
+<br>
 
 ## 🧠 Why Imagify?
 
@@ -57,7 +57,7 @@ The application enables users to securely register/login, input creative prompts
 - ✅ Scalable backend with REST endpoints and MongoDB Atlas  
 - ✅ Deployment-ready and modular for future enhancements (e.g., social sharing, image history, download tracking)  
 
-
+<br>
 
 ## 🛠️ Built With
 
@@ -74,7 +74,7 @@ The application enables users to securely register/login, input creative prompts
 
 
 
-
+<br>
 
 
 ## 🔒 Security & Auth
