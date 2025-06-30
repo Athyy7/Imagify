@@ -2,9 +2,12 @@
 
 **Imagify** is a full-stack SaaS application that transforms natural language prompts into vivid, AI-generated images in seconds. Designed for accessibility and performance, Imagify blends cutting-edge AI capabilities with a smooth user experience — all powered by a secure and scalable MERN architecture.
 
+
 > 🖼️ Generate. 💬 Describe. ⚡ Visualize. All in under 5 seconds.
 
+
 ---
+
 
 ## 🚀 Overview
 
@@ -20,7 +23,9 @@ Imagify is more than just a text-to-image converter — it's a productivity tool
 - 🖌️ **Tailwind CSS**: Modern, responsive and utility-first styling
 - 📦 **MongoDB Atlas**: Cloud-hosted NoSQL database with schema validation
 
+
 ---
+
 
 ## 📊 Functional Stats
 
@@ -30,7 +35,9 @@ Imagify is more than just a text-to-image converter — it's a productivity tool
 - 🎯 **Conversion Accuracy**: Optimized with text-to-image REST APIs
 - 🧾 **Transactions**: Logged via MongoDB transactions schema for auditing
 
+
 ---
+
 
 ## 🧠 Why Imagify?
 
@@ -47,7 +54,9 @@ The problem with most AI image tools:
 - ✅ Scalable backend with REST endpoints and MongoDB Atlas
 - ✅ Deployment-ready and modular for future enhancements (e.g., social sharing, image history, download tracking)
 
+
 ---
+
 
 ## 🛠️ Built With
 
@@ -62,10 +71,10 @@ The problem with most AI image tools:
 | Razorpay API       | Integrated payment gateway for credit purchase   |
 | REST APIs          | Used for AI-based image generation               |
 
----
 
 
 ---
+
 
 ## 🔒 Security & Auth
 
@@ -74,7 +83,9 @@ The problem with most AI image tools:
 - Custom Express middleware (`auth.js`) for protected routes
 - MongoDB indexes set for unique user entries (email)
 
+
 ---
+
 
 > 👨‍💻 Made with passion and precision by [Atharav Shivhare](https://github.com/Athyy7)
 
