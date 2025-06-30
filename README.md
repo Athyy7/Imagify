@@ -2,6 +2,10 @@
 
 **Imagify** is a full-stack SaaS application that transforms natural language prompts into vivid, AI-generated images in seconds. Designed for accessibility and performance, Imagify blends cutting-edge AI capabilities with a smooth user experience — all powered by a secure and scalable MERN architecture.
 
+
+
+
+
 > 🖼️ Generate. 💬 Describe. ⚡ Visualize. All in under 5 seconds.
 
 
