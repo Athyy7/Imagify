@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-You can view the deployed project here: [View Live Demo](https://your-project-url.com](https://imagify-orpin-gamma.vercel.app/)
+You can view the deployed project here: [View Live Demo](https://imagify-orpin-gamma.vercel.app/)
 
 
   
