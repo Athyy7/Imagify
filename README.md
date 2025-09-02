@@ -8,6 +8,7 @@
 ## Live Demo
 
 You can view the deployed project here: [View Live Demo](https://imagify-orpin-gamma.vercel.app/)
+
 ⚡ Heads up: Free Render server = 50s nap time if idle. The lag isn’t my code, it’s my budget. Once it wakes, it’s lightning fast 🚀.
 
 
